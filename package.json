@@ -1,5 +1,5 @@
 {
-	"name": "shellcommander",
+	"name": "@leon1234858/shellcommander",
 	"version": "1.0.1",
 	"description": "an npm module to simplfy exec shell command in node",
 	"main": "dist/index.js",
