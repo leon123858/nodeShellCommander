@@ -1,6 +1,6 @@
 {
 	"name": "shellcommander",
-	"version": "1.0.7",
+	"version": "1.1.0",
 	"description": "an npm module to simplify exec shell command in node",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
