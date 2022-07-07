@@ -1,9 +1,3 @@
-# Build Status:
-
-## Master Branch:
-
-[![Build Status](https://travis-ci.org/daveabes/shellcommand.svg?branch=master)](https://travis-ci.org/daveabes/shellcommand)
-
 # Overview:
 
 ShellCommander is a child_process wrapper for execute shell command in node

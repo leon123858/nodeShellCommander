@@ -1,6 +1,6 @@
 {
 	"name": "shellcommander",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "an npm module to simplify exec shell command in node",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
@@ -9,13 +9,18 @@
 		"README.md",
 		"LICENSE"
 	],
+	"repository": "https://github.com/leon123858/nodeShellCommander",
 	"scripts": {
 		"test": "mocha -r ts-node/register test/*.ts",
 		"start": "tsc --build && node ./dist/index.js",
 		"addUser": "npm adduser --registry=https://registry.npmjs.org"
 	},
 	"author": "leon123858",
-	"license": "ISC",
+	"license": "Apache-2.0",
+	"keywords": [
+		"cmd",
+		"shell"
+	],
 	"devDependencies": {
 		"@types/chai": "^4.3.1",
 		"@types/mocha": "^9.1.1",
